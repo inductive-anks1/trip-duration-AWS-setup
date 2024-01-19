@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705660040032
+current_stage: None
+description: ''
+last_updated_timestamp: 1705660040032
+name: XGB Final Model
+run_id: f65a35c524e14600a0380a2dd5f5616a
+run_link: ''
+source: file:///media/inductive_anks/New%20Volume/CS%20and%20AI/AI%20and%20ML/CampusX%202.0/Projects/trip-duration-final/trip-duration/mlruns/0/f65a35c524e14600a0380a2dd5f5616a/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///media/inductive_anks/New%20Volume/CS%20and%20AI/AI%20and%20ML/CampusX%202.0/Projects/trip-duration-final/trip-duration/mlruns/0/f65a35c524e14600a0380a2dd5f5616a/artifacts/model
+user_id: null
+version: 1

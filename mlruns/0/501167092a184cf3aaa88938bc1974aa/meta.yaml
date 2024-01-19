@@ -1,0 +1,15 @@
+artifact_uri: file:///media/inductive_anks/New%20Volume/CS%20and%20AI/AI%20and%20ML/CampusX%202.0/Projects/trip-duration-final/trip-duration/mlruns/0/501167092a184cf3aaa88938bc1974aa/artifacts
+end_time: 1705587247576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 501167092a184cf3aaa88938bc1974aa
+run_name: XGBRegressor
+run_uuid: 501167092a184cf3aaa88938bc1974aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705587231066
+status: 3
+tags: []
+user_id: inductive_anks
